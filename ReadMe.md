@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Undergraduate Student in Production Engineering<br>📊 Embarking on the journey of Data Science and Machine Learning
+🎓 Cursando Engenharia de Produção<br>📊 Aprendendo sobre Data Science e Machine Learning
 
 
 ## 🌐 Socials:
