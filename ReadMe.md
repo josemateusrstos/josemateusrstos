@@ -1,4 +1,4 @@
-# 💫 About Me:
+# *Jose Mateus*
 🎓 Cursando Engenharia de Produção<br>
 📊 Aprendendo sobre Data Science e Machine Learning
 
